@@ -10,10 +10,10 @@ Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-
 Department of Biology, University of Oxford, Oxford, United Kingdom  
 <br/>
 Alain Danet <a itemprop="sameAs" content="https://orcid.org/0000-0002-1592-9483" href="https://orcid.org/0000-0002-1592-9483" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>  
-DECOD (Ecosystem Dynamics and Sustainability), INRAE, Institut Agro Rennes-Angers, IFREMER, Rennes, France
+DECOD (Ecosystem Dynamics and Sustainability), INRAE, Institut Agro Rennes-Angers, IFREMER, Rennes, France  
 <br/>
-Camille Leclerc <a itemprop="sameAs" content="https://orcid.org/0000-0001-5830-1787" href="https://orcid.org/0000-0001-5830-1787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> | <a href="https://scholar.google.no/citations?user={{ fseXcHIAAAAJ&hl }}"><span class="icon icon-link icon--google-scholar">{% include icon-google-scholar.svg %}</span></a>
-RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France
+Camille Leclerc <a itemprop="sameAs" content="https://orcid.org/0000-0001-5830-1787" href="https://orcid.org/0000-0001-5830-1787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> | <a href="https://scholar.google.com/citations?user=fseXcHIAAAAJ&hl" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo_2015.png" style="width:1em; margin-left:0.3em;" alt="Google Scholar icon"></a>  
+RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France  
 <br/>
 
 ## Popular articles:
