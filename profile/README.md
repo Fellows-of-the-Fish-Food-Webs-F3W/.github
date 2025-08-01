@@ -6,11 +6,11 @@ The goal of F³W is to provide a workflow to:
 - Compile data on freshwater fish communities, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
 - Reconstruct local food-web structures that account for intraspecific diet variation by integrating both taxonomic identity and body size (full methodological details can be found in [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
 - Characterize the environmental context of fish sampling sites.  
+<br/>
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
 <br/>
 
 ## Authors:
-
 Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-8891" href="https://orcid.org/0000-0002-5053-8891" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> | <a itemprop="sameAs" content="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" href="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
 Department of Biology, University of Oxford, Oxford, United Kingdom  
 <br/>
