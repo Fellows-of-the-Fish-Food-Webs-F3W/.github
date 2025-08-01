@@ -10,7 +10,7 @@ The goal of F³W is to provide a workflow to:
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
 <br/>
 
-## Authors:
+## 👥 Authors:
 Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-8891" href="https://orcid.org/0000-0002-5053-8891" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> | <a itemprop="sameAs" content="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" href="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
 Department of Biology, University of Oxford, Oxford, United Kingdom  
 <br/>
@@ -21,7 +21,7 @@ Camille Leclerc <a itemprop="sameAs" content="https://orcid.org/0000-0001-5830-1
 RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France  
 <br/>
 
-## Related articles:
+## 📄 Related publications:
 - Danet *et al.*. Biodiversity temporal trends are reshaping food web structure and redundancy in riverine ecosystems. *bioRxiv*. [https://doi.org/10.1101/2025.04.23.649202](https://doi.org/10.1101/2025.04.23.649202)
 - Leclerc *et al.* (2025). Climate impacts on lake food-webs are mediated by biological invasions. *Global Change Biology*, 31, e70144. [https://doi.org/10.1111/gcb.70144](https://doi.org/10.1111/gcb.70144)
 - Bonnaffé, Danet, Leclerc *et al.* (2024). The interaction between warming and enrichment accelerates food-web simplification in freshwater systems. *Ecology Letters*, 8, e14480. [https://doi.org/10.1111/ele.14480](https://doi.org/10.1111/ele.14480)
