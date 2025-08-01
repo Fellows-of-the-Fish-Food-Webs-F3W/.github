@@ -12,7 +12,8 @@ Department of Biology, University of Oxford, Oxford, United Kingdom
 Alain Danet <a itemprop="sameAs" content="https://orcid.org/0000-0002-1592-9483" href="https://orcid.org/0000-0002-1592-9483" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>  
 DECOD (Ecosystem Dynamics and Sustainability), INRAE, Institut Agro Rennes-Angers, IFREMER, Rennes, France  
 <br/>
-Camille Leclerc <a itemprop="sameAs" content="https://orcid.org/0000-0001-5830-1787" href="https://orcid.org/0000-0001-5830-1787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> | <a href="https://scholar.google.com/citations?user=fseXcHIAAAAJ&hl" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"<img src="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar" style="width:1em; margin-left:0.3em;" alt="Google Scholar icon"></a>  
+Camille Leclerc <a itemprop="sameAs" content="https://orcid.org/0000-0001-5830-1787" href="https://orcid.org/0000-0001-5830-1787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> |  
+<a itemprop="sameAs" content="https://scholar.google.com/citations?user=fseXcHIAAAAJ" href="https://scholar.google.com/citations?user=fseXcHIAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
 RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France  
 <br/>
 
