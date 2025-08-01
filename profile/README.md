@@ -1,11 +1,11 @@
-## F<sup>3</sup>W: Fellows of the Fish Food Webs
+## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
 <div align="justify">
 
 The goal of F³W is to provide a workflow to:  
 - Compile data on freshwater fish communities, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
 - Reconstruct local food-web structures that account for intraspecific diet variation by integrating both taxonomic identity and body size (full methodological details can be found in [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
-- Characterize the environmental context of fish sampling sites.
+- Characterize the environmental context of fish sampling sites.  
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
 <br/>
 
