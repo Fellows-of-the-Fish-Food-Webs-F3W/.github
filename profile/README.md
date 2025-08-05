@@ -14,7 +14,7 @@ The goal of F³W is to provide a workflow to:
 - **Reconstruct local food-web structures** that account for intraspecific diet variation by integrating both taxonomic identity and body size (see [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
   [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder)
 
-- **Characterize the environmental context** of fish sampling sites.  
+- **Characterize the environmental context** of freshwater fish sampling sites.  
   [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)  
 
 <br/>
