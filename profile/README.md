@@ -1,15 +1,21 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
+<div align="justify">
+
+The goal of F³W is to provide a workflow to:  
 <p>
 <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="20%" align="left" />
 </p>
 
-<div align="justify">
+- **Compile data on freshwater fish communities**, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
+  [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder)
 
-The goal of F³W is to provide a workflow to:  
-- [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder) Compile data on freshwater fish communities, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
-- [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder) Reconstruct local food-web structures that account for intraspecific diet variation by integrating both taxonomic identity and body size (full methodological details can be found in [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
-- [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder) Characterize the environmental context of fish sampling sites.  
+- **Reconstruct local food-web structures** that account for intraspecific diet variation by integrating both taxonomic identity and body size (see [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
+  [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder)
+
+- **Characterize the environmental context** of fish sampling sites.  
+  [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)
+
 <br/>
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
 <br/>
