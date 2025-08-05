@@ -1,12 +1,10 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
-<table style="width:100%; border:none;">
-  <tr style="border:none;">
-    <td style="width:180px; border:none; vertical-align:top;">
-      <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="F3W Logo" width="20%">
-    </td>
-    <td style="border:none; padding-left:20px;">
-      <div align="justify">
+<p>
+<img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
+</p>
+
+<div align="justify">
 
 The goal of F³W is to provide a workflow to:  
 
@@ -20,12 +18,8 @@ The goal of F³W is to provide a workflow to:
   [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)
 
 <br/>
-Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.
-
-  </tr>
-</table>
-
-<div align="justify">
+Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
+<br/>
 
 ## 👥 Contributors:
 Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-8891" href="https://orcid.org/0000-0002-5053-8891" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> <a itemprop="sameAs" content="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" href="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
