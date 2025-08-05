@@ -1,11 +1,11 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="200px">
+<td width="200px" style="border: none; vertical-align: top;">
   <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="logoF3W" width="100%">
 </td>
-<td>
+<td style="border: none;">
 
 <div align="justify">
 
