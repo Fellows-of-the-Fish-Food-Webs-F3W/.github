@@ -1,10 +1,13 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
-<div style="display:flex; align-items:flex-start; gap: 20px;">
-  <div>
-    <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="logoF3W" width="200px" />
-  </div>
-  <div align="justify">
+<table>
+<tr>
+<td width="200px">
+  <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="logoF3W" width="100%">
+</td>
+<td>
+
+<div align="justify">
 
 The goal of F³W is to provide a workflow to:  
 
@@ -18,10 +21,13 @@ The goal of F³W is to provide a workflow to:
   [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)
 
 <br/>
-Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
-<br/>
-  </div>
+Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.
+
 </div>
+
+</td>
+</tr>
+</table>
 
 <div align="justify">
 
