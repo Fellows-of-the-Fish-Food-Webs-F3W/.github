@@ -1,5 +1,7 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
+<img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="20%" align="left" />
+
 <div align="justify">
 
 The goal of F³W is to provide a workflow to:  
