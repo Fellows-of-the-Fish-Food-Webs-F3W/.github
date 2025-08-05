@@ -1,12 +1,12 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
-<p>
-<img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
-</p>
-
 <div align="justify">
 
 The goal of F³W is to provide a workflow to:  
+
+<p>
+<img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
+</p>
 
 - **Compile data on freshwater fish communities**, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
   [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder)
@@ -15,7 +15,7 @@ The goal of F³W is to provide a workflow to:
   [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder)
 
 - **Characterize the environmental context** of fish sampling sites.  
-  [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)
+  [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)  
 
 <br/>
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
