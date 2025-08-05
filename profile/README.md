@@ -3,7 +3,7 @@
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     <td style="width:180px; border:none; vertical-align:top;">
-      <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="F3W Logo" width="100%">
+      <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="F3W Logo" width="20%">
     </td>
     <td style="border:none; padding-left:20px;">
       <div align="justify">
@@ -22,8 +22,6 @@ The goal of F³W is to provide a workflow to:
 <br/>
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.
 
-      </div>
-    </td>
   </tr>
 </table>
 
