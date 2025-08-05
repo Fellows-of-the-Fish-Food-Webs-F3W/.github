@@ -1,12 +1,10 @@
 ## 🐟 F<sup>3</sup>W: Fellows of the Fish Food Webs
 
-<div align="justify">
-
 <div style="display:flex; align-items:flex-start; gap: 20px;">
   <div>
     <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="logoF3W" width="200px" />
   </div>
-
+  <div align="justify">
 
 The goal of F³W is to provide a workflow to:  
 
@@ -22,7 +20,10 @@ The goal of F³W is to provide a workflow to:
 <br/>
 Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
 <br/>
+  </div>
 </div>
+
+<div align="justify">
 
 ## 👥 Contributors:
 Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-8891" href="https://orcid.org/0000-0002-5053-8891" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> <a itemprop="sameAs" content="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" href="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
