@@ -34,14 +34,10 @@ RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France
 
 ## 📄 Related publications:
 <details>
-<summary><strong>Preprints</strong></summary>
-<br>
-
+<summary>Preprints</summary>
 <ul>
   <li>
-    <strong>Danet</strong> <em>et al.</em><br>
-    <em>Biodiversity temporal trends are reshaping food web structure and redundancy in riverine ecosystems.</em><br>
-    <em>bioRxiv</em> – <a href="https://doi.org/10.1101/2025.04.23.649202">https://doi.org/10.1101/2025.04.23.649202</a>
+    Danet <em>et al.</em> Biodiversity temporal trends are reshaping food web structure and redundancy in riverine ecosystems. <em>bioRxiv</em>. <a href="https://doi.org/10.1101/2025.04.23.649202">https://doi.org/10.1101/2025.04.23.649202</a>
   </li>
   <br>
 </ul>
