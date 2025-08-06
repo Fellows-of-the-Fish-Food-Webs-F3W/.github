@@ -39,52 +39,35 @@ RiverLy (Functioning of Hydrosystems), INRAE, Villeurbanne, France
   <li>
     Danet <em>et al.</em> Biodiversity temporal trends are reshaping food web structure and redundancy in riverine ecosystems. <em>bioRxiv</em>. <a href="https://doi.org/10.1101/2025.04.23.649202">https://doi.org/10.1101/2025.04.23.649202</a>
   </li>
-  <br>
 </ul>
 </details>
 
 <details>
-<summary><strong>2025</strong></summary>
-<br>
-
+<summary>2025</summary>
 <ul>
   <li>
-    <strong>Leclerc</strong> <em>et al.</em> (2025)<br>
-    <em>Climate impacts on lake food-webs are mediated by biological invasions.</em><br>
-    <em>Global Change Biology</em>, 31, e70144 – <a href="https://doi.org/10.1111/gcb.70144">https://doi.org/10.1111/gcb.70144</a>
-  </li>
-  <br>
-</ul>
-</details>
-
-<details>
-<summary><strong>2024</strong></summary>
-<br>
-
-<ul>
-  <li>
-    <strong>Bonnaffé, Danet, Leclerc</strong> <em>et al.</em> (2024)<br>
-    <em>The interaction between warming and enrichment accelerates food-web simplification in freshwater systems.</em><br>
-    <em>Ecology Letters</em>, 8, e14480 – <a href="https://doi.org/10.1111/ele.14480">https://doi.org/10.1111/ele.14480</a>
+    Leclerc <em>et al.</em> (2025). Climate impacts on lake food-webs are mediated by biological invasions. <em>Global Change Biology</em>, 31, e70144. <a href="https://doi.org/10.1111/gcb.70144">https://doi.org/10.1111/gcb.70144</a>
   </li>
 </ul>
 </details>
 
 <details>
-<summary><strong>2021</strong></summary>
-<br>
-
+<summary>2024</summary>
 <ul>
   <li>
-    <strong>Bonnaffé, Danet</strong> <em>et al.</em> (2021)<br>
-    <em>Comparison of size-structured and species-level trophic networks reveals antagonistic effects of temperature on vertical trophic diversity at the population and species level.</em><br>
-    <em>Oikos</em>, 130, 1297–1309 – <a href="https://doi.org/10.1111/oik.08173">https://doi.org/10.1111/oik.08173</a>
+    Bonnaffé, Danet, Leclerc <em>et al.</em> (2024). The interaction between warming and enrichment accelerates food-web simplification in freshwater systems. <em>Ecology Letters</em>, 8, e14480. <a href="https://doi.org/10.1111/ele.14480">https://doi.org/10.1111/ele.14480</a>
   </li>
-  <br>
+</ul>
+</details>
+
+<details>
+<summary>2021</summary>
+<ul>
   <li>
-    <strong>Danet</strong> <em>et al.</em> (2021)<br>
-    <em>Species richness and food-web structure jointly drive community biomass and its temporal stability in fish communities.</em><br>
-    <em>Ecology Letters</em>, 24, 2364–2377 – <a href="https://doi.org/10.1111/ele.13857">https://doi.org/10.1111/ele.13857</a>
+    Bonnaffé, Danet <em>et al.</em> (2021). Comparison of size-structured and species-level trophic networks reveals antagonistic effects of temperature on vertical trophic diversity at the population and species level. <em>Oikos</em>, 130, 1297–1309. <a href="https://doi.org/10.1111/oik.08173">https://doi.org/10.1111/oik.08173</a>
+  </li>
+  <li>
+    Danet <em>et al.</em> (2021). Species richness and food-web structure jointly drive community biomass and its temporal stability in fish communities. <em>Ecology Letters</em>, 24, 2364–2377. <a href="https://doi.org/10.1111/ele.13857">https://doi.org/10.1111/ele.13857</a>
   </li>
 </ul>
 </details>
