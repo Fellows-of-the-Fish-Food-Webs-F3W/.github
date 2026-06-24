@@ -2,16 +2,16 @@
 
 <div align="justify">
 
-F³W provides a reproducible framework for constructing and analysing size-structured freshwater food webs from standardized fish monitoring data.
+F³W provides a reproducible framework for constructing and analysing size-structured food webs from standardized fish monitoring data.
 By integrating species composition, individual body sizes, trophic interactions, and environmental information, F³W aims to investigate how fish communities and their associated food webs respond to natural and anthropogenic environmental gradients.  
 
 <p>
 <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
 </p>
 
-[![fish2webs](https://img.shields.io/static/v1?label=&message=fish2webs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fish2webs) integrates the main components of F³W into a workflow for reconstructing and analysing size-structured freshwater food webs from fish survey data. It currently relies on methods developed in:  
+[![fish2webs](https://img.shields.io/static/v1?label=&message=fish2webs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fish2webs) integrates the main components of F³W into a workflow for reconstructing and analysing size-structured food webs from fish survey data. It currently relies on methods developed in:  
 <br/>
-[![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder) which compiles and harmonizes freshwater fish community data from standardized monitoring programs (e.g. French river surveys; https://zenodo.org/records/8099409);  
+[![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder) which compiles and harmonizes fish community data from standardized monitoring programs, with current implementations based on [French river survey](https://zenodo.org/records/8099409);  
 <br/>
 [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder) which reconstructs size-structured food webs while accounting for intraspecific dietary variation, following the approaches described by [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857).  
 <br/>
