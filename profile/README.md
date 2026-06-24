@@ -9,15 +9,14 @@ By integrating species composition, individual body sizes, trophic interactions,
 <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
 </p>
 
-## Components
-[![ish2webs](https://img.shields.io/static/v1?label=&message=ish2webs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fish2web) is the main package of the F³W project. It provides a complete workflow to:
+[![fish2webs](https://img.shields.io/static/v1?label=&message=ish2webs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fish2web) is the main package of the F³W project. It provides a complete workflow to:
 * extract and harmonize individual fish size measurements from survey data;
 * build size-structured trophic metawebs based on species identity, ontogenetic diet shifts, and predator–prey size constraints;
 * generate local food webs for individual sampling operations;
 * compute structural and trophic metrics for both metawebs and local food webs.
 
 The package builds upon functionalities originally developed in:
-*  [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder), which compiles and harmonizes freshwater fish community data from standardized monitoring programs (e.g. French river surveys; https://zenodo.org/records/8099409);
+* [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder), which compiles and harmonizes freshwater fish community data from standardized monitoring programs (e.g. French river surveys; https://zenodo.org/records/8099409);
 * [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder), which reconstructs food-web structure while accounting for intraspecific dietary variation, following the approaches described in [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)
 
 In addition, [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder) provides tools to characterize the environmental context of sampling sites and integrate abiotic and anthropogenic drivers into food-web analyses.
