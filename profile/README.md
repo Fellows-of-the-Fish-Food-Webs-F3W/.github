@@ -2,24 +2,25 @@
 
 <div align="justify">
 
-The goal of F³W is to provide a workflow to:  
+F³W provides a reproducible framework for constructing and analysing size-structured freshwater food webs from standardized fish monitoring data.
+By integrating species composition, individual body sizes, trophic interactions, and environmental information, F³W aims to investigate how fish communities and their associated food webs respond to natural and anthropogenic environmental gradients.  
 
 <p>
 <img src="https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/.github/blob/main/profile/logoF3W.png" alt="" width="30%" align="left" />
 </p>
 
-- **Compile data on freshwater fish communities**, including both species composition and individual body sizes, from monitoring programs related to the Water Framework Directive.  
-  [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder)
+## Components
+[![ish2webs](https://img.shields.io/static/v1?label=&message=ish2webs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fish2web) is the main package of the F³W project. It provides a complete workflow to:
+* extract and harmonize individual fish size measurements from survey data;
+* build size-structured trophic metawebs based on species identity, ontogenetic diet shifts, and predator–prey size constraints;
+* generate local food webs for individual sampling operations;
+* compute structural and trophic metrics for both metawebs and local food webs.
 
-- **Reconstruct local food-web structures** that account for intraspecific diet variation by integrating both taxonomic identity and body size (see [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)).  
-  [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder)
+The package builds upon functionalities originally developed in:
+*  [![fishdatabuilder](https://img.shields.io/static/v1?label=&message=fishdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/fishdatabuilder), which compiles and harmonizes freshwater fish community data from standardized monitoring programs (e.g. French river surveys; https://zenodo.org/records/8099409);
+* [![foodwebbuilder](https://img.shields.io/static/v1?label=&message=foodwebbuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/foodwebbuilder), which reconstructs food-web structure while accounting for intraspecific dietary variation, following the approaches described in [Bonnaffé *et al.* (2021)](https://doi.org/10.1111/oik.08173) and [Danet *et al.* (2021)](https://doi.org/10.1111/ele.13857)
 
-- **Characterize the environmental context** of freshwater fish sampling sites.  
-  [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder)  
-
-<br/>
-Together, these steps aim to explore how freshwater fish communities and their associated food webs respond to natural and human-induced environmental gradients.  
-<br/>
+In addition, [![envdatabuilder](https://img.shields.io/static/v1?label=&message=envdatabuilder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Fellows-of-the-Fish-Food-Webs-F3W/envdatabuilder) provides tools to characterize the environmental context of sampling sites and integrate abiotic and anthropogenic drivers into food-web analyses.
 
 ## 👥 Contributors:
 Willem Bonnaffé <a itemprop="sameAs" content="https://orcid.org/0000-0002-5053-8891" href="https://orcid.org/0000-0002-5053-8891" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> <a itemprop="sameAs" content="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" href="https://scholar.google.com/citations?user=_ntgm1MAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:1em;margin-right:.5em;" alt="Google scholar icon"></a>  
